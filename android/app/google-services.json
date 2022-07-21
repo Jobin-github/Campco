@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735622191328",
+    "project_id": "campco-signin",
+    "storage_bucket": "campco-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735622191328:android:15d83740a364c38f195885",
+        "android_client_info": {
+          "package_name": "com.example.campco2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735622191328-ckm49dsrjnlbj2nv75q11us769jn21h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaB7-hRBSMxr81vR-6GATTAui2yii9XhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735622191328-ckm49dsrjnlbj2nv75q11us769jn21h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
